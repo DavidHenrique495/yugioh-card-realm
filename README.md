@@ -2,8 +2,6 @@
 
 Uma página web que consome a API pública de Yu-Gi-Oh!, com animações temáticas do anime, interface responsiva e estilizada.
 
-![Yu-Gi-Oh Card Realm](https://ygoprodeck.com/pics/logo.png)
-
 ## 🔗 Demo
 
 Abra o arquivo `yugioh.html` diretamente no navegador — sem servidor necessário.
